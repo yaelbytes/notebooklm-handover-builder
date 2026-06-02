@@ -1,0 +1,4 @@
+version: 1
+display_name: NotebookLM Handover Builder
+short_description: Turn messy work materials into a lean, NotebookLM-ready handover pack.
+default_prompt: Build a minimum-effective handover from my materials and tell me what should go into NotebookLM.
